@@ -1,0 +1,76 @@
+<html>
+<head>
+  <style>
+  body {
+  background-color: #2fa7ca;
+}
+img {
+  width: 50%;
+  height: auto;
+  background-color: #2fa7ca;
+  mix-blend-mode: multiply;
+ 
+  
+   
+}
+
+  h1 {
+    font-size: 500%;
+    Font-family: Trebuchet MS;
+    text-align: center;
+    color: white;
+  }
+  
+  ul{
+    background-color: skyblue;
+    height: 50px;
+    text-align: center;
+    font-size: 200%;
+    list-style-type: none;
+    margin
+    color: white;
+    
+  }
+  li {
+    display: inline;
+      margin: 80px;
+    padding: 20px;
+    color: white;
+  }
+  li a:hover {
+    background-color: white;
+  }
+    
+    p{
+      font-family: Trebuchet MS;
+      color: white;
+      font-size: 500%;
+      text-align: center;
+    }
+  
+
+  </style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  
+</head>
+
+<body>
+  <p style="background-color: skyblue"><img src=
+"https://img.freepik.com/premium-vector/abstract-initial-letter-m-mm-logo-blue-color-isolated-white-background_388320-546.jpg?w=2000"
+        alt="logo"
+        align="middle"><br> MeytMook
+  </P> <hr>
+    <ul >
+      <li ><a href="Home">Home</a></li>
+     <li><a href="Login">Login</a></li>
+      <li><a href="Exit">Exit</a></li>
+      
+    </ul>
+<hr>
+  </div>
+ 
+</body>
+</html>
